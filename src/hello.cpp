@@ -21,7 +21,7 @@ int main() {
 //	myLog.setLogFileName ("jon.txt");
 //	myLog.setErrorLevel(logInformation);
 	myLog.logValue = logInformation;
-	myLog.logFileName = "/home/jdellaria/Desktop/log.txt";
+	myLog.logFileName = "/home/pi/Desktop/log.txt";
 	myLog.printFile = true;
 	myLog.printScreen = true;
 	myLog.printTime = true;
